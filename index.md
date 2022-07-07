@@ -1,1 +1,1 @@
-[[World Map]]
+![[World Map]]
