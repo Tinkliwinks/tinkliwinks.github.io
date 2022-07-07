@@ -1,1 +1,1 @@
-![[World Map.md]]
+[[World Map]]
